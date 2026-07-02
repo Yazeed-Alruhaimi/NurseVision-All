@@ -3,7 +3,7 @@ NurseVision AI is a Computer Vision solution for real-time IV fluid bag monitori
 # 🏥 NurseVision AI
 ## Project Demo
 
-![NurseVision AI](demo.png)
+![Project Demo](IMG_0742.jpeg)
 <p align="center">
   <img src="demo.png" width="800">
 </p>
