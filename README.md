@@ -1,7 +1,12 @@
 # NurseVision-All
 NurseVision AI is a Computer Vision solution for real-time IV fluid bag monitoring using YOLO. Built during the SDA × Atomcamp Computer Vision Bootcamp, the project promotes Responsible AI and won the Most Responsible AI Solution and Best Technical Improvement award
 # 🏥 NurseVision AI
+## Project Demo
 
+![NurseVision AI](demo.png)
+<p align="center">
+  <img src="demo.png" width="800">
+</p>
 NurseVision AI is a Computer Vision solution for real-time IV fluid bag monitoring using YOLO. The system helps healthcare professionals by detecting IV bag status and providing timely alerts while following Responsible AI principles.
 
 ## 🚀 Features
